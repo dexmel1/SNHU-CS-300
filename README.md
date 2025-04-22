@@ -1,4 +1,5 @@
 # SNHU CS-300
+DSA: Analysis and Design
 ## What was the problem you were solving in the projects for this course?
 I was building a program to read and organize course data, allowing users to search for courses, view prerequisites, and see a sorted list of course offerings. The challenge was to design a structure that efficiently stored and retrieved course information.
 
